@@ -19,9 +19,9 @@ print("Command Prefix Is " + PREFIX)
 
 
 
-username = 'imgflip username'
-password = 'imgflip password'
-romid = "discord userid"
+username = '' #imgflip username
+password = '' #imgflip password
+romid = "386680123" #imgflip template id
 userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
 
 #Take input from user -- Meme, Text0 and Text1
