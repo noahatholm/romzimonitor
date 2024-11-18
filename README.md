@@ -11,3 +11,5 @@ Proof of effectiveness:
 
 ![image](https://github.com/noahatholm/romzimonitor/assets/55161483/fdb597a5-d3db-46b4-b9ac-52eecbf69b2f)
 ![image](https://github.com/noahatholm/romzimonitor/assets/55161483/cc7a0504-9e5b-42f2-be02-9b822c511301)
+
+Very bad code i kno
